@@ -1,0 +1,4 @@
+﻿Algoritmo,Accuracy,Precision (macro),Recall (macro),F1 (macro),F1 (weighted),F1 macro CV-5 treino (média ± dp)
+Random Forest,0.972,0.973,0.97,0.971,0.972,0.966 ± 0.004
+kNN (k=15),0.972,0.972,0.97,0.971,0.972,0.964 ± 0.009
+Regressão Logística,0.82,0.835,0.818,0.816,0.819,0.795 ± 0.012

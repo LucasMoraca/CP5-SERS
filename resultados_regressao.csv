@@ -1,0 +1,4 @@
+﻿Algoritmo,MAE (W/m²),MSE ((W/m²)²),RMSE (W/m²),R²
+Random Forest,69.277,7859.748,88.655,0.832
+Árvore de Decisão,84.493,13089.783,114.411,0.721
+Regressão Linear,145.205,30034.201,173.304,0.36
