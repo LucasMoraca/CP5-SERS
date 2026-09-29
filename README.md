@@ -1,11 +1,17 @@
 # Checkpoint 02 — APIs, Energias Renováveis e Aprendizado de Máquina
 
 **Disciplina:** Soluções em Energias Renováveis e Sustentáveis — FIAP, 1CCPX, 2º semestre
+
 **Grupo:**
+
 Gabriel Barbosa Furin - RM: 572941
+
 Gabriel de Almeida Santos - RM: 569395
+
 Herbert Soares de Jesus - RM: 571507
+
 Lucas Kiodi Moraca - RM: 571004
+
 Renan Fracalossi Mano da Silva - RM: 569610
 
 ## Objetivo
